@@ -1,0 +1,14 @@
+score: 20,grade: F
+score: 40,grade: E
+score: 57,grade: C
+score: 47,grade: D
+score: 65,grade: B
+score: 49,grade: D
+score: 78,grade: A
+score: 34,grade: F
+score: 23,grade: F
+score: 56,grade: C
+score: 78,grade: A
+score: 23,grade: F
+score: 90,grade: A
+score: 12,grade: F
